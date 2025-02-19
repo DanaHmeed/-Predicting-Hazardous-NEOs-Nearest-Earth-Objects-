@@ -7,7 +7,10 @@ classified by NASA as "is_hazardous," indicating that they pose a potential dang
 Your task is to train a machine learning model that can accurately predict whether a NEO is
 hazardous or not. This is a critical task, as the ability to accurately identify dangerous objects
 could be vital for planetary defense.
-## Project Overview
+
+---
+
+## 📊 Project Overview
 This project aims to predict whether a given Nearest Earth Object (NEO) is hazardous or not, based on data provided by NASA from 1910 to 2024. The dataset contains 338,199 records, each representing an NEO and its proximity to Earth, with some labeled as hazardous. The goal is to build a machine learning model to classify hazardous NEOs.
 
 ---
