@@ -44,6 +44,5 @@ This project aims to predict whether a given Nearest Earth Object (NEO) is hazar
 - **Feature Importance**: [Highlight any key features that were found to be important for classification].
 
 ## How to Run the Code
-1. Clone the repository:
-   ```bash
+ Clone the repository:
 [(https://github.com/DanaHmeed/-Predicting-Hazardous-NEOs-Nearest-Earth-Objects-)]
